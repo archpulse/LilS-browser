@@ -179,3 +179,5 @@ Built with ❤️ for lightweight, privacy-focused browsing.
 ---
 
 **LilS Browser** - Lightweight & Simple
+
+#Icon made by Neuro Rich Youtuber
